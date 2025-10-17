@@ -1,3 +1,5 @@
 # Assignment for Week 01
 
-answers go here
+student answers go here
+
+blah blah blah
